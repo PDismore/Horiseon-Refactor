@@ -48,7 +48,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 23px;
 }
 
 .hero {
@@ -89,11 +89,11 @@ p {
 }
 
 .benefit-lead, .benefit-brand, .benefit-cost  {
-    margin-bottom: 32px;
+    margin-bottom: 20px;
     color: #ffffff;
 }
 
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+.benefit-lead h2, .benefit-brand h2, .benefit-cost h2 {
     margin-bottom: 10px;
     text-align: center;
 }
